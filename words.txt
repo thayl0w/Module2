@@ -1,0 +1,14 @@
+haunted_house: attic phantom lantern skeleton whispers cobwebs shadows trapdoor mirror curse ritual midnight basement seance porcelain doll footsteps apparition grimoire window creaking hollow veil rotting haunt
+cemetery: tombstone grave shovel nightfall mausoleum ritual skull crypt lichen ashes ghostly sorrow eternal reaper marble inscription undead burial gatekeeper moonlit mourner urn shroud headstone sepulcher
+forest: oak ravens howl thicket fog moss glowing roots vines hollow ancient whisper ferns branches crow wind leaves shimmer owl brook clearing paths sorcery fae herbs
+ocean: abyss tide anchor kraken reef storm waves harpoon coral shipwreck compass siren depths current sailor jetty periscope horizon kelp nautilus plankton whirlpool splash trench mariner
+cyberpunk: neon augment datajack overclock hologram android implant encryption rogue virus drone skyline network glitch override console access firewall packet spectrum cyberdeck quantum circuit subroutine terminal
+mystic: oracle arcane prophecy crystal runes charm enchanter vision spirit ether astral potion ritual seal wand sigil incantation talisman divine realm portal rift summon blessing omen
+space: nebula asteroid galaxy orbit meteor cosmos gravity module thruster oxygen helmet spacesuit lander probe supernova quasar comet starfield void wormhole pulsar cluster radiation module tether
+desert: dunes oasis mirage scorpion camel sandstorm ruins artifact scarab parchment caravan heatwave horizon quarry shimmer nomad ceramic quicksand tracks solstice temple drylands whisper wraith bramble
+fantasy: dragon castle wizard knight treasure sword armor griffin serpent chimera elixir realm quest portal crystal phoenix staff scroll golem fairy dungeon crown warlock saga throne
+technology: processor keyboard monitor firmware router ethernet cache compiler module syntax variable desktop algorithm storage mouse driver update wireless bluetooth network debug commandline terminal pipeline binary
+weather: thunder lightning tornado hurricane breeze blizzard stormcloud raindrop climate forecast sunrise heatwave frost cyclone downpour mist windstorm shower barometer drizzle monsoon gale warmfront coldfront
+animals: panther buffalo eagle tortoise wolf hyena whale octopus cheetah antelope koala python boar hound mongoose falcon barnacle heron bison tuna walrus lemur sparrow sealion ibis
+food: pizza bread noodles garlic onion salmon chocolate strawberry caramel omelette lasagna curry pancake sushi biscuit sausage tomato avocado taco espresso cheddar hotdog spinach yoghurt almond
+mythology: zeus hercules athena hephaestus poseidon anubis osiris ra cleopatra thor loki odin fenrir balder beowulf titan atlas hyperion phoebe medusa cerberus pegasus achilles perseus ares
